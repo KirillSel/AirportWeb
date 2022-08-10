@@ -1,0 +1,3 @@
+.card{
+    @apply bg-gray-50 border rounded-md px-6 py-4 mb-2 hover:shadow-md hover:transition-all cursor-pointer
+}
